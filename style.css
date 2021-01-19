@@ -1,0 +1,20 @@
+body{
+    font-size: 20px;
+}
+
+#petsHolder{
+    position: relative;
+}
+
+
+.pagination {
+    justify-content: center;
+    
+}
+
+.modal-content{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
